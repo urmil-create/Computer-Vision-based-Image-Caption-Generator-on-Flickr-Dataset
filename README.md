@@ -52,4 +52,4 @@ Explain how to set up data generators, define the model architecture, and train 
 
 ## File Structure
 
-Outline the structure of your project's files and directories.
+File only contains a Jupyter Notebook.
