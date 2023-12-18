@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/14TK0DJU8GgFb6HBAK4M11tvNdOYSdeqs?usp=sh
 
 ### Python Dependencies
 
-1. Install Python Dependencies: Use the provided code to install required Python libraries such as TensorFlow, NumPy, etc.
+1. Install Python Dependencies: Use the provided code to install required Python libraries such as TensorFlow, NumPy, Pandas etc.
 
 ## Usage
 
